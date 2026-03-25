@@ -5,7 +5,7 @@
 name: My first workflow!
 
 on: 
-  pull_requests:
+  pull_request:
     types:
       - reopened
     paths:
